@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 /* eslint-disable react/no-unescaped-entities */
 import "./App.css";
 import profilePic from "./assets/images/avatar-jessica.jpeg";
