@@ -122,5 +122,6 @@ body {
   }
   .main{
     width: 350px;
+    padding: 30px 25px;
   }
 }
