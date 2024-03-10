@@ -1,0 +1,15 @@
+{
+  "name": "fe-mentor-13---social-links-card",
+  "version": "1.0.0",
+  "description": "![Design preview for the Social links profile coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^5.1.5"
+  }
+}
